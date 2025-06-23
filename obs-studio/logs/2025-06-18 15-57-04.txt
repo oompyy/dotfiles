@@ -1,0 +1,237 @@
+15:57:04.977: [Safe Mode] Unclean shutdown detected!
+15:57:06.441: [Safe Mode] User elected to launch normally.
+15:57:06.441: Platform: Wayland
+15:57:06.441: CPU Name: 12th Gen Intel(R) Core(TM) i5-12400F
+15:57:06.441: CPU Speed: 4000.000MHz
+15:57:06.442: Physical Cores: 6, Logical Cores: 12
+15:57:06.442: Physical Memory: 15823MB Total, 11471MB Free
+15:57:06.442: Kernel Version: Linux 6.15.2-arch1-1
+15:57:06.442: Distribution: "Arch Linux" Unknown
+15:57:06.442: Desktop Environment: Hyprland (Hyprland)
+15:57:06.442: Session Type: wayland
+15:57:06.442: Qt Version: 6.9.1 (runtime), 6.9.0 (compiled)
+15:57:06.442: Portable mode: false
+15:57:06.458: OBS 31.0.3 (linux)
+15:57:06.458: ---------------------------------
+15:57:06.459: ---------------------------------
+15:57:06.459: audio settings reset:
+15:57:06.459: 	samples per sec: 48000
+15:57:06.459: 	speakers:        2
+15:57:06.459: 	max buffering:   960 milliseconds
+15:57:06.459: 	buffering type:  dynamically increasing
+15:57:06.461: ---------------------------------
+15:57:06.461: Initializing OpenGL...
+15:57:06.461: Using EGL/Wayland
+15:57:06.499: Initialized EGL 1.5
+15:57:06.539: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3060/PCIe/SSE2
+15:57:06.539: OpenGL loaded successfully, version 3.3.0 NVIDIA 575.57.08, shading language 3.30 NVIDIA via Cg compiler
+15:57:06.561: ---------------------------------
+15:57:06.561: video settings reset:
+15:57:06.561: 	base resolution:   1920x1080
+15:57:06.561: 	output resolution: 1920x1080
+15:57:06.561: 	downscale filter:  Bicubic
+15:57:06.561: 	fps:               60/1
+15:57:06.561: 	format:            NV12
+15:57:06.561: 	YUV mode:          Rec. 709/Partial
+15:57:06.561: NV12 texture support enabled
+15:57:06.561: P010 texture support not available
+15:57:06.603: Audio monitoring device:
+15:57:06.603: 	name: Default
+15:57:06.603: 	id: default
+15:57:06.604: ---------------------------------
+15:57:06.609: Failed to load 'en-US' text for module: 'decklink-captions.so'
+15:57:06.615: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+15:57:06.619: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+15:57:06.619: Failed to initialize module 'decklink.so'
+15:57:06.719: [pipewire] Available capture sources:
+15:57:06.719: [pipewire]     - Monitor source
+15:57:06.719: [pipewire]     - Window source
+15:57:06.733: v4l2loopback not installed, virtual camera not registered
+15:57:07.078: VAAPI: API version 1.22
+15:57:07.135: FFmpeg VAAPI H264 encoding supported
+15:57:07.393: FFmpeg VAAPI AV1 encoding supported
+15:57:07.641: FFmpeg VAAPI HEVC encoding supported
+15:57:08.109: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 12.90, AV1 supported: false
+15:57:08.939: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+15:57:08.939: 
+15:57:08.941: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+15:57:08.941: 
+15:57:08.941: Module '/usr/lib/obs-plugins/obs-websocket.so' not loaded
+15:57:08.956: ---------------------------------
+15:57:08.956:   Loaded Modules:
+15:57:08.956:     text-freetype2.so
+15:57:08.956:     rtmp-services.so
+15:57:08.956:     obs-x264.so
+15:57:08.956:     obs-webrtc.so
+15:57:08.956:     obs-vst.so
+15:57:08.956:     obs-transitions.so
+15:57:08.956:     obs-qsv11.so
+15:57:08.956:     obs-outputs.so
+15:57:08.956:     obs-nvenc.so
+15:57:08.956:     obs-libfdk.so
+15:57:08.956:     obs-filters.so
+15:57:08.956:     obs-ffmpeg.so
+15:57:08.956:     linux-v4l2.so
+15:57:08.956:     linux-pulseaudio.so
+15:57:08.956:     linux-pipewire.so
+15:57:08.956:     linux-jack.so
+15:57:08.956:     linux-capture.so
+15:57:08.956:     linux-alsa.so
+15:57:08.956:     image-source.so
+15:57:08.956:     frontend-tools.so
+15:57:08.956:     decklink-output-ui.so
+15:57:08.956:     decklink-captions.so
+15:57:08.956: ---------------------------------
+15:57:08.956: ---------------------------------
+15:57:08.956: Available Encoders:
+15:57:08.956:   Video Encoders:
+15:57:08.956: 	- ffmpeg_svt_av1 (SVT-AV1)
+15:57:08.956: 	- ffmpeg_aom_av1 (AOM AV1)
+15:57:08.956: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+15:57:08.956: 	- av1_ffmpeg_vaapi_tex (FFmpeg VAAPI AV1)
+15:57:08.956: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+15:57:08.956: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+15:57:08.956: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+15:57:08.956: 	- obs_x264 (x264)
+15:57:08.956:   Audio Encoders:
+15:57:08.956: 	- ffmpeg_aac (FFmpeg AAC)
+15:57:08.956: 	- ffmpeg_opus (FFmpeg Opus)
+15:57:08.956: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+15:57:08.956: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+15:57:08.956: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+15:57:08.956: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+15:57:08.956: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+15:57:08.956: 	- libfdk_aac (libfdk AAC)
+15:57:08.956: ==== Startup complete ===============================================
+15:57:09.003: All scene data cleared
+15:57:09.003: ------------------------------------------------
+15:57:09.016: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.5) 15.0.0'
+15:57:09.016: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+15:57:09.016: pulse-input: Started recording from 'alsa_output.usb-TC-Helicon_GoXLR-00.HiFi__Speaker__sink.monitor' (default)
+15:57:09.016: [Loaded global audio device]: 'Desktop Audio'
+15:57:09.017: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.5) 15.0.0'
+15:57:09.017: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+15:57:09.017: pulse-input: Started recording from 'alsa_input.usb-TC-Helicon_GoXLR-00.HiFi__Line4__source'
+15:57:09.017: [Loaded global audio device]: 'Mic/Aux'
+15:57:09.018: PipeWire initialized
+15:57:09.019: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.5) 15.0.0'
+15:57:09.020: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+15:57:09.020: pulse-input: Started recording from 'alsa_input.usb-TC-Helicon_GoXLR-00.HiFi__Line4__source'
+15:57:09.023: Switched to scene 'Scene'
+15:57:09.023: ------------------------------------------------
+15:57:09.023: Loaded scenes:
+15:57:09.023: - scene 'Scene':
+15:57:09.023:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+15:57:09.023:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+15:57:09.023: ------------------------------------------------
+15:57:09.069: [pipewire] Screencast session created
+15:57:09.117: [pipewire] Asking for monitor and window
+15:57:09.126: [pipewire] source selected, setting up screencast
+15:57:09.131: [pipewire] Server version: 1.4.5
+15:57:09.131: [pipewire] Library version: 1.4.5
+15:57:09.131: [pipewire] Header version: 1.4.2
+15:57:09.132: [pipewire] Created stream 0x55fb42396bb0
+15:57:09.132: [pipewire] Stream 0x55fb42396bb0 state: "connecting" (error: none)
+15:57:09.132: [pipewire] Playing stream 0x55fb42396bb0
+15:57:09.132: [pipewire] Stream 0x55fb42396bb0 state: "paused" (error: none)
+15:57:09.181: [pipewire] Negotiated format:
+15:57:09.181: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+15:57:09.181: [pipewire]     Modifier: 0x0
+15:57:09.181: [pipewire]     Size: 1920x1080
+15:57:09.181: [pipewire]     Framerate: 0/1
+15:57:09.181: [pipewire] Negotiated format:
+15:57:09.181: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+15:57:09.181: [pipewire]     Modifier: 0x300000000e08014
+15:57:09.181: [pipewire]     Size: 1920x1080
+15:57:09.181: [pipewire]     Framerate: 0/1
+15:57:09.181: [pipewire] Stream 0x55fb42396bb0 state: "streaming" (error: none)
+15:57:09.596: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+15:57:09.596: 
+15:57:11.093: [obs-nvenc: 'simple_video_recording'] settings:
+15:57:11.093: 	codec:        H264
+15:57:11.093: 	rate_control: CQP
+15:57:11.093: 	cqp:          23
+15:57:11.093: 	keyint:       250
+15:57:11.093: 	preset:       p5
+15:57:11.093: 	tuning:       hq
+15:57:11.093: 	multipass:    qres
+15:57:11.093: 	profile:      high
+15:57:11.093: 	width:        1920
+15:57:11.093: 	height:       1080
+15:57:11.093: 	b-frames:     2
+15:57:11.093: 	b-ref-mode:   0
+15:57:11.093: 	lookahead:    true (8 frames)
+15:57:11.093: 	aq:           true
+15:57:11.093: 
+15:57:11.121: libfdk_aac encoder created
+15:57:11.122: libfdk_aac bitrate: 192, channels: 2
+15:57:11.123: ==== Replay Buffer Start ===========================================
+16:10:24.029: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/nils/Replay 2025-06-18 16-10-23.mp4'
+17:19:46.861: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/nils/Replay 2025-06-18 17-19-46.mp4'
+17:39:05.481: Output 'Replay Buffer': stopping
+17:39:05.481: Output 'Replay Buffer': Total frames output: 366845
+17:39:05.481: Output 'Replay Buffer': Total drawn frames: 366862
+17:39:05.481: ==== Replay Buffer Stop ============================================
+17:39:05.666: libfdk_aac encoder destroyed
+17:39:06.042: [obs-nvenc: 'simple_video_recording'] settings:
+17:39:06.042: 	codec:        H264
+17:39:06.042: 	rate_control: CQP
+17:39:06.042: 	cqp:          23
+17:39:06.042: 	keyint:       250
+17:39:06.042: 	preset:       p5
+17:39:06.042: 	tuning:       hq
+17:39:06.042: 	multipass:    qres
+17:39:06.042: 	profile:      high
+17:39:06.042: 	width:        1920
+17:39:06.042: 	height:       1080
+17:39:06.042: 	b-frames:     2
+17:39:06.042: 	b-ref-mode:   0
+17:39:06.042: 	lookahead:    true (8 frames)
+17:39:06.042: 	aq:           true
+17:39:06.042: 
+17:39:06.071: libfdk_aac encoder created
+17:39:06.071: libfdk_aac bitrate: 192, channels: 2
+17:39:06.072: ==== Replay Buffer Start ===========================================
+17:39:07.326: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/nils/Replay 2025-06-18 17-39-07.mp4'
+17:40:36.851: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/nils/Replay 2025-06-18 17-40-36.mp4'
+18:29:35.498: ==== Recording Start ===============================================
+18:29:35.498: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/nils/2025-06-18 18-29-35.mp4'...
+18:52:45.827: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/nils/2025-06-18 18-29-35.mp4' stopped
+18:52:45.827: Output 'simple_file_output': stopping
+18:52:45.827: Output 'simple_file_output': Total frames output: 83207
+18:52:45.827: Output 'simple_file_output': Total drawn frames: 83419
+18:52:45.827: ==== Recording Stop ================================================
+19:10:44.967: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/nils/Replay 2025-06-18 19-10-44.mp4'
+19:13:04.554: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/nils/Replay 2025-06-18 19-13-04.mp4'
+19:14:29.102: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/nils/Replay 2025-06-18 19-14-29.mp4'
+19:36:42.709: ==== Recording Start ===============================================
+19:36:42.709: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/nils/2025-06-18 19-36-42.mp4'...
+19:39:56.098: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/nils/2025-06-18 19-36-42.mp4' stopped
+19:39:56.098: Output 'simple_file_output': stopping
+19:39:56.098: Output 'simple_file_output': Total frames output: 11547
+19:39:56.098: Output 'simple_file_output': Total drawn frames: 11604
+19:39:56.098: ==== Recording Stop ================================================
+19:45:08.703: This plugin supports grabbing the mouse only for popup windows
+19:45:08.913: This plugin supports grabbing the mouse only for popup windows
+19:45:15.287: Switched to Preview/Program mode
+19:45:15.287: ------------------------------------------------
+19:45:15.752: Switched to scene 'Scene'
+19:45:15.789: Switched to regular Preview mode
+19:45:15.789: ------------------------------------------------
+20:02:06.921: ==== Shutting down ==================================================
+20:02:06.927: pulse-input: Stopped recording from 'alsa_output.usb-TC-Helicon_GoXLR-00.HiFi__Speaker__sink.monitor'
+20:02:06.927: pulse-input: Got 587917 packets with 705500400 frames
+20:02:06.928: pulse-input: Stopped recording from 'alsa_input.usb-TC-Helicon_GoXLR-00.HiFi__Line4__source'
+20:02:06.928: pulse-input: Got 587918 packets with 705501600 frames
+20:02:06.930: [pipewire] Stream 0x55fb42396bb0 state: "paused" (error: none)
+20:02:06.930: [pipewire] Stream 0x55fb42396bb0 state: "unconnected" (error: none)
+20:02:06.962: pulse-input: Stopped recording from 'alsa_input.usb-TC-Helicon_GoXLR-00.HiFi__Line4__source'
+20:02:06.962: pulse-input: Got 587919 packets with 705502800 frames
+20:02:06.984: All scene data cleared
+20:02:06.984: ------------------------------------------------
+20:02:06.995: Output 'Replay Buffer': stopping
+20:02:06.995: Output 'Replay Buffer': Total frames output: 514838
+20:02:06.995: Output 'Replay Buffer': Total drawn frames: 514854 (514856 attempted)
+20:02:06.995: Output 'Replay Buffer': Number of lagged frames due to rendering lag/stalls: 2 (0.0%)
+20:02:06.997: Video stopped, number of skipped frames due to encoding lag: 2/514854 (0.0%)
+20:02:07.176: libfdk_aac encoder destroyed

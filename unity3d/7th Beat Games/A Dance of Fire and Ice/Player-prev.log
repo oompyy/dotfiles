@@ -1,0 +1,846 @@
+Mono path[0] = '/mnt/1TBHDD/SteamLibrary/steamapps/common/A Dance of Fire and Ice/ADanceOfFireAndIce_Data/Managed'
+Mono config path = '/mnt/1TBHDD/SteamLibrary/steamapps/common/A Dance of Fire and Ice/ADanceOfFireAndIce_Data/MonoBleedingEdge/etc'
+Preloaded 'discord_game_sdk.so'
+Preloaded 'libStandaloneFileBrowser.so'
+Preloaded 'libadofaipulse.so'
+Preloaded 'libskyhook.so'
+Preloaded 'libsteam_api.so'
+Display 0 'DP-1 17"': 1024x1280 (primary device).
+Display 1 'HDMI-A-2 24"': 1920x1080 (secondary device).
+Display 2 'DP-2 24"': 1920x1080 (secondary device).
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Unable to load player prefs
+Desktop is 1024 x 1280 @ 75 Hz
+Initialize engine version: 2022.3.33f1 (b2c853adf198)
+[Subsystems] Discovering subsystems at path /mnt/1TBHDD/SteamLibrary/steamapps/common/A Dance of Fire and Ice/ADanceOfFireAndIce_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Renderer: NVIDIA GeForce RTX 3060/PCIe/SSE2
+Vendor:   NVIDIA Corporation
+Version:  4.5.0 NVIDIA 575.57.08
+GLES:     0
+ GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragmen
+t_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoki
+ng_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_A
+RB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_t
+ranspose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters 
+GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod G
+L_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_NV_memory_object_sparse GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced
+_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_g
+pu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_program_multiview GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_primitive_shading_rate GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgrou
+p_partitioned GL_NV_shader_texture_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_dirty_tile_map GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_uniform_buffer_std430_layout GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced 
+GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 524558984
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.962 seconds
+- Finished resetting the current domain, in  0.005 seconds
+Default vsync count 0
+requesting resize 960 x 540
+resizing window to 960 x 540
+Desktop is 1024 x 1280 @ 75 Hz
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 0.424534 ms
+Startup: GetPlatform
+Startup: Setting platform to Linux.
+Startup: DetermineAppLocation
+Startup: Platform: Linux
+Startup: isInSteamLibrary: True
+Startup: SetBuildDateAndCommit
+Startup: Version r133, (facec7c, 2025/05/20 6:40 PM)
+Startup: SetLocale
+Startup: Initialize Steam SDK
+[S_API] SteamAPI_Init(): Loaded '/home/nils/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 977950
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561199061273906 [API loaded no]
+Has license for 1977570: False
+Has license for 2016430: False
+Startup: LoadSaveData
+Startup: FixResolution
+Startup: SetupLevelEventsInfo
+Startup: SetSettings
+Startup: ForceResolutionOnLofi
+Startup: LoadCalibration
+Startup: LoadAssetBundle
+Startup: SetupSfxHandler
+Startup: GetSteamBranch
+Startup: DLC: CheckInstalled
+DLCManagers count: 2
+Startup: DLC: CheckUpToDate
+Startup: Neo Cosmos: owns False, installed False
+Startup: Setup Discord
+Initializing Discord: InternalError
+Discord was not initialized: Discord.ResultException: InternalError
+  at Discord.Discord..ctor (System.Int64 clientId, System.UInt64 flags) [0x00343] in <1d1b2680e1194da3818329f9d26cbad5>:0 
+  at DiscordController.OnEnable () [0x0001f] in <8196743c461b46bfbfd92dd44223085e>:0 
+Startup: Give Steam Achievements
+Startup: Rewired Init
+Startup: RDInput Setup
+Startup: Setup Audio Settings
+Startup: <color=green>ADOStartup done!</color>
+Desktop is 1024 x 1280 @ 75 Hz
+Desktop is 1920 x 1080 @ 165 Hz
+Go to Menu
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 2.496171 ms
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 33492.
+Total: 14.202605 ms (FindLiveObjects: 1.269073 ms CreateObjectMapping: 0.532231 ms MarkObjects: 12.335630 ms  DeleteObjects: 0.065107 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 122 shaders 1173 combinations 4.567s
+<color=#0099bc><b>DOTWEEN ► </b></color>Max Tweens reached: capacity has automatically been increased from 500/50 to 1250/50. Use DOTween.SetTweensCapacity to set it manually at startup
+Skipping audio break checking. Detected delta time: 8.170784
+generate settings!
+requesting resize 960 x 540
+requesting fullscreen 960 x 540 at 0/1 Hz
+Setting up downscaled viewport at 960 x 540
+Desktop is 1920 x 1080 @ 165 Hz
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0/1 Hz
+Desktop is 1920 x 1080 @ 165 Hz
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 35.245290 ms
+Unloading 370 unused Assets to reduce memory usage. Loaded Objects now: 10357.
+Total: 11.436347 ms (FindLiveObjects: 0.398204 ms CreateObjectMapping: 0.378950 ms MarkObjects: 9.991952 ms  DeleteObjects: 0.666670 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 122 shaders 1176 combinations 0.019s
+Uploading Crash Report
+ArgumentNullException: Value cannot be null.
+Parameter name: contents
+  at System.IO.File.WriteAllLines (System.String path, System.Collections.Generic.IEnumerable`1[T] contents) [0x00011] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at scnCLS.CreateFloors () [0x000f1] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at scnCLS.Refresh (System.Boolean setup) [0x002ce] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at scnCLS.WorkshopLevelsPortal () [0x0006f] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__7_0 (System.Object state) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () [0x00002] in <e808736c84f0469fbbf710d80a904487>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x0005d] in <e808736c84f0469fbbf710d80a904487>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00014] in <e808736c84f0469fbbf710d80a904487>:0 
+
+Uploading Crash Report
+ArgumentNullException: Value cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at scnCLS.get_levelDeleted () [0x00000] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at OptionsPanelsCLS.TogglePanel (System.Boolean left, System.Boolean show) [0x0002e] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at OptionsPanelsCLS.ToggleRightPanel () [0x00000] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at UnityEngine.Events.InvokableCall.Invoke () [0x00010] in <e808736c84f0469fbbf710d80a904487>:0 
+  at UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) [0x00049] in <e808736c84f0469fbbf710d80a904487>:0 
+  at UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) [0x00022] in <56e3e37874e047118194dd3084f2bc3b>:0 
+  at UnityEngine.EventSystems.EventTrigger.OnPointerDown (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <56e3e37874e047118194dd3084f2bc3b>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerDownHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00007] in <56e3e37874e047118194dd3084f2bc3b>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) [0x00067] in <56e3e37874e047118194dd3084f2bc3b>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.ExecuteEvents:ExecuteHierarchy(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+ArgumentNullException: Value cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at scnCLS.get_levelDeleted () [0x00000] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at OptionsPanelsCLS.TogglePanel (System.Boolean left, System.Boolean show) [0x0002e] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at OptionsPanelsCLS.ToggleRightPanel () [0x00000] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at UnityEngine.Events.InvokableCall.Invoke () [0x00010] in <e808736c84f0469fbbf710d80a904487>:0 
+  at UnityEngine.Events.UnityEvent`1[T0].Invoke (T0 arg0) [0x00049] in <e808736c84f0469fbbf710d80a904487>:0 
+  at UnityEngine.EventSystems.EventTrigger.Execute (UnityEngine.EventSystems.EventTriggerType id, UnityEngine.EventSystems.BaseEventData eventData) [0x00022] in <56e3e37874e047118194dd3084f2bc3b>:0 
+  at UnityEngine.EventSystems.EventTrigger.OnPointerDown (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <56e3e37874e047118194dd3084f2bc3b>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerDownHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00007] in <56e3e37874e047118194dd3084f2bc3b>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) [0x00067] in <56e3e37874e047118194dd3084f2bc3b>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.ExecuteEvents:ExecuteHierarchy(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+Uploading Crash Report
+ArgumentNullException: Value cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at scnCLS.get_levelDeleted () [0x00000] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at OptionsPanelsCLS.TogglePanel (System.Boolean left, System.Boolean show) [0x0002e] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at OptionsPanelsCLS.CheckInputs () [0x0004e] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at scnCLS.Update () [0x00372] in <8196743c461b46bfbfd92dd44223085e>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at scnCLS.get_levelDeleted () [0x00000] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at OptionsPanelsCLS.TogglePanel (System.Boolean left, System.Boolean show) [0x0002e] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at OptionsPanelsCLS.CheckInputs () [0x0004e] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at scnCLS.Update () [0x00372] in <8196743c461b46bfbfd92dd44223085e>:0 
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 5.033237 ms
+Unloading 213 unused Assets to reduce memory usage. Loaded Objects now: 10457.
+Total: 12.571255 ms (FindLiveObjects: 0.286981 ms CreateObjectMapping: 0.285390 ms MarkObjects: 11.576993 ms  DeleteObjects: 0.421386 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 122 shaders 1173 combinations 0.010s
+Skipping audio break checking. Detected delta time: 0.3128696
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 53.228058 ms
+Unloading 873 unused Assets to reduce memory usage. Loaded Objects now: 10425.
+Total: 12.634074 ms (FindLiveObjects: 0.423197 ms CreateObjectMapping: 0.305692 ms MarkObjects: 10.155906 ms  DeleteObjects: 1.748801 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 122 shaders 1176 combinations 0.011s
+<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null (Void SetTrait(LevelTrait, Single)) ► Object reference not set to an instance of an object
+
+  at LevelRadar.SetTrait (LevelRadar+LevelTrait trait, System.Single level) [0x00085] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at LevelRadar+<>c__DisplayClass28_0.<SetTraitAnimated>b__1 (System.Single x) [0x00000] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at DG.Tweening.Plugins.FloatPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.FloatOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, System.Single startValue, System.Single changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x000e3] in <82a2fd073ee449928e161903460426d7>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <82a2fd073ee449928e161903460426d7>:0 
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null (Void SetTrait(LevelTrait, Single)) ► Object reference not set to an instance of an object
+
+  at LevelRadar.SetTrait (LevelRadar+LevelTrait trait, System.Single level) [0x00085] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at LevelRadar+<>c__DisplayClass28_0.<SetTraitAnimated>b__1 (System.Single x) [0x00000] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at DG.Tweening.Plugins.FloatPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.FloatOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, System.Single startValue, System.Single changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x000e3] in <82a2fd073ee449928e161903460426d7>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <82a2fd073ee449928e161903460426d7>:0 
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null (Void SetTrait(LevelTrait, Single)) ► Object reference not set to an instance of an object
+
+  at LevelRadar.SetTrait (LevelRadar+LevelTrait trait, System.Single level) [0x00085] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at LevelRadar+<>c__DisplayClass28_0.<SetTraitAnimated>b__1 (System.Single x) [0x00000] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at DG.Tweening.Plugins.FloatPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.FloatOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, System.Single startValue, System.Single changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x000e3] in <82a2fd073ee449928e161903460426d7>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <82a2fd073ee449928e161903460426d7>:0 
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null (Void SetTrait(LevelTrait, Single)) ► Object reference not set to an instance of an object
+
+  at LevelRadar.SetTrait (LevelRadar+LevelTrait trait, System.Single level) [0x00085] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at LevelRadar+<>c__DisplayClass28_0.<SetTraitAnimated>b__1 (System.Single x) [0x00000] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at DG.Tweening.Plugins.FloatPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.FloatOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, System.Single startValue, System.Single changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x000e3] in <82a2fd073ee449928e161903460426d7>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <82a2fd073ee449928e161903460426d7>:0 
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 4.683177 ms
+Unloading 216 unused Assets to reduce memory usage. Loaded Objects now: 10652.
+Total: 12.725007 ms (FindLiveObjects: 0.281635 ms CreateObjectMapping: 0.286930 ms MarkObjects: 11.717168 ms  DeleteObjects: 0.438930 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 193 unused Assets to reduce memory usage. Loaded Objects now: 20088.
+Total: 16.752367 ms (FindLiveObjects: 0.651311 ms CreateObjectMapping: 0.340164 ms MarkObjects: 15.393868 ms  DeleteObjects: 0.366539 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 123 shaders 1188 combinations 0.037s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 58704.
+Total: 11.309031 ms (FindLiveObjects: 2.132713 ms CreateObjectMapping: 0.609542 ms MarkObjects: 8.514654 ms  DeleteObjects: 0.051372 ms)
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Max Tweens reached: capacity has automatically been increased from 1250/50 to 3125/50. Use DOTween.SetTweensCapacity to set it manually at startup
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 19.504887 ms
+Unloading 127 unused Assets to reduce memory usage. Loaded Objects now: 12153.
+Total: 21.209317 ms (FindLiveObjects: 0.404202 ms CreateObjectMapping: 0.359842 ms MarkObjects: 20.008810 ms  DeleteObjects: 0.436055 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1305 unused Assets to reduce memory usage. Loaded Objects now: 20127.
+Total: 17.930687 ms (FindLiveObjects: 0.736115 ms CreateObjectMapping: 0.368656 ms MarkObjects: 15.769946 ms  DeleteObjects: 1.055366 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 123 shaders 1188 combinations 0.010s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 58743.
+Total: 11.377966 ms (FindLiveObjects: 2.154840 ms CreateObjectMapping: 0.540658 ms MarkObjects: 8.627380 ms  DeleteObjects: 0.054462 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 19.165761 ms
+Unloading 120 unused Assets to reduce memory usage. Loaded Objects now: 12249.
+Total: 20.914995 ms (FindLiveObjects: 0.387055 ms CreateObjectMapping: 0.345170 ms MarkObjects: 19.699083 ms  DeleteObjects: 0.483163 ms)
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Behaviour.get_isActiveAndEnabled(UnityEngine.Behaviour)
+  at UnityEngine.EventSystems.UIBehaviour.IsActive () [0x00000] in <56e3e37874e047118194dd3084f2bc3b>:0 
+  at UnityEngine.UI.Graphic.SetVerticesDirty () [0x00000] in <56e3e37874e047118194dd3084f2bc3b>:0 
+  at UnityEngine.UI.Graphic.set_color (UnityEngine.Color value) [0x0000e] in <56e3e37874e047118194dd3084f2bc3b>:0 
+  at DG.Tweening.DOTweenModuleUI+<>c__DisplayClass3_0.<DOColor>b__1 (UnityEngine.Color x) [0x00000] in <1d1b2680e1194da3818329f9d26cbad5>:0 
+  at DG.Tweening.Plugins.ColorPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.ColorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Color startValue, UnityEngine.Color changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00112] in <82a2fd073ee449928e161903460426d7>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <82a2fd073ee449928e161903460426d7>:0 
+
+<color=#0099bc><b>DOTWEEN ► </b></color>An error inside a tween callback was taken care of (Void <Choose>b__0()) ► Object reference not set to an instance of an object
+
+  at PauseMenu+<>c__DisplayClass134_0.<Choose>b__0 () [0x0014a] in <8196743c461b46bfbfd92dd44223085e>:0 
+  at DG.Tweening.Tween.OnTweenCallback (DG.Tweening.TweenCallback callback, DG.Tweening.Tween t) [0x00007] in <82a2fd073ee449928e161903460426d7>:0 
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 0.477150 ms
+Unloading 1313 unused Assets to reduce memory usage. Loaded Objects now: 20112.
+Total: 18.025750 ms (FindLiveObjects: 0.797394 ms CreateObjectMapping: 0.309118 ms MarkObjects: 15.416877 ms  DeleteObjects: 1.501929 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 20112.
+Total: 17.451179 ms (FindLiveObjects: 0.790289 ms CreateObjectMapping: 0.347741 ms MarkObjects: 16.296858 ms  DeleteObjects: 0.015800 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.013s
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 58728.
+Total: 12.286365 ms (FindLiveObjects: 2.238709 ms CreateObjectMapping: 0.602506 ms MarkObjects: 9.395285 ms  DeleteObjects: 0.049089 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 52.767833 ms
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 12237.
+Total: 20.534657 ms (FindLiveObjects: 0.383069 ms CreateObjectMapping: 0.332352 ms MarkObjects: 19.422454 ms  DeleteObjects: 0.396377 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 125 shaders 1193 combinations 0.010s
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 4.456779 ms
+Unloading 216 unused Assets to reduce memory usage. Loaded Objects now: 12450.
+Total: 23.125987 ms (FindLiveObjects: 0.431508 ms CreateObjectMapping: 0.344014 ms MarkObjects: 21.569034 ms  DeleteObjects: 0.781017 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1476 unused Assets to reduce memory usage. Loaded Objects now: 20253.
+Total: 18.657424 ms (FindLiveObjects: 0.736561 ms CreateObjectMapping: 0.377649 ms MarkObjects: 15.536437 ms  DeleteObjects: 2.006440 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.011s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 52185.
+Total: 13.192270 ms (FindLiveObjects: 2.000556 ms CreateObjectMapping: 0.518026 ms MarkObjects: 10.614423 ms  DeleteObjects: 0.058724 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 95.042868 ms
+Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 12284.
+Total: 20.848314 ms (FindLiveObjects: 0.384067 ms CreateObjectMapping: 0.321140 ms MarkObjects: 19.741359 ms  DeleteObjects: 0.401334 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1154 unused Assets to reduce memory usage. Loaded Objects now: 20409.
+Total: 17.863593 ms (FindLiveObjects: 0.744813 ms CreateObjectMapping: 0.365652 ms MarkObjects: 15.651908 ms  DeleteObjects: 1.100772 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.012s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 52223.
+Total: 14.314319 ms (FindLiveObjects: 1.925493 ms CreateObjectMapping: 0.517070 ms MarkObjects: 11.818945 ms  DeleteObjects: 0.052271 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 109.875121 ms
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 12303.
+Total: 21.559076 ms (FindLiveObjects: 0.397978 ms CreateObjectMapping: 0.428324 ms MarkObjects: 20.290936 ms  DeleteObjects: 0.441298 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 125 shaders 1193 combinations 0.011s
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 5.270059 ms
+Unloading 216 unused Assets to reduce memory usage. Loaded Objects now: 12494.
+Total: 23.783938 ms (FindLiveObjects: 0.414080 ms CreateObjectMapping: 0.358613 ms MarkObjects: 22.329309 ms  DeleteObjects: 0.681415 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1306 unused Assets to reduce memory usage. Loaded Objects now: 20467.
+Total: 18.749813 ms (FindLiveObjects: 0.767165 ms CreateObjectMapping: 0.400854 ms MarkObjects: 16.169902 ms  DeleteObjects: 1.411361 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.010s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 52637.
+Total: 13.894893 ms (FindLiveObjects: 2.072325 ms CreateObjectMapping: 0.533331 ms MarkObjects: 11.237274 ms  DeleteObjects: 0.051438 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 43.527973 ms
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 12446.
+Total: 20.234967 ms (FindLiveObjects: 0.413951 ms CreateObjectMapping: 0.326080 ms MarkObjects: 19.083465 ms  DeleteObjects: 0.411020 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1199 unused Assets to reduce memory usage. Loaded Objects now: 20526.
+Total: 17.742433 ms (FindLiveObjects: 0.724546 ms CreateObjectMapping: 0.357563 ms MarkObjects: 15.699892 ms  DeleteObjects: 0.959910 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.011s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 52685.
+Total: 14.782367 ms (FindLiveObjects: 1.961948 ms CreateObjectMapping: 0.505389 ms MarkObjects: 12.267207 ms  DeleteObjects: 0.047498 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 17.903296 ms
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 12472.
+Total: 20.169011 ms (FindLiveObjects: 0.395085 ms CreateObjectMapping: 0.323794 ms MarkObjects: 18.934658 ms  DeleteObjects: 0.515079 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1196 unused Assets to reduce memory usage. Loaded Objects now: 20555.
+Total: 18.274304 ms (FindLiveObjects: 0.753140 ms CreateObjectMapping: 0.362585 ms MarkObjects: 15.829928 ms  DeleteObjects: 1.327977 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.011s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 52695.
+Total: 13.990026 ms (FindLiveObjects: 1.961303 ms CreateObjectMapping: 0.511289 ms MarkObjects: 11.443142 ms  DeleteObjects: 0.073889 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 113.210833 ms
+Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 12501.
+Total: 21.092090 ms (FindLiveObjects: 0.413629 ms CreateObjectMapping: 0.335072 ms MarkObjects: 19.925653 ms  DeleteObjects: 0.417220 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1196 unused Assets to reduce memory usage. Loaded Objects now: 20584.
+Total: 18.514802 ms (FindLiveObjects: 0.831136 ms CreateObjectMapping: 0.398555 ms MarkObjects: 16.266520 ms  DeleteObjects: 1.018222 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.011s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 52724.
+Total: 14.991756 ms (FindLiveObjects: 2.003178 ms CreateObjectMapping: 0.521210 ms MarkObjects: 12.418400 ms  DeleteObjects: 0.048452 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 18.424050 ms
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 12530.
+Total: 20.879032 ms (FindLiveObjects: 0.467949 ms CreateObjectMapping: 0.330726 ms MarkObjects: 19.512661 ms  DeleteObjects: 0.567238 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1196 unused Assets to reduce memory usage. Loaded Objects now: 20613.
+Total: 18.667438 ms (FindLiveObjects: 0.749897 ms CreateObjectMapping: 0.391401 ms MarkObjects: 16.171528 ms  DeleteObjects: 1.354104 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.011s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 52753.
+Total: 16.166733 ms (FindLiveObjects: 2.019418 ms CreateObjectMapping: 0.564522 ms MarkObjects: 13.525761 ms  DeleteObjects: 0.056538 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 110.893328 ms
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 12559.
+Total: 20.353999 ms (FindLiveObjects: 0.388732 ms CreateObjectMapping: 0.328612 ms MarkObjects: 19.226399 ms  DeleteObjects: 0.409757 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1196 unused Assets to reduce memory usage. Loaded Objects now: 20642.
+Total: 17.863775 ms (FindLiveObjects: 0.762964 ms CreateObjectMapping: 0.390688 ms MarkObjects: 15.741202 ms  DeleteObjects: 0.968303 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.011s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 52782.
+Total: 11.183986 ms (FindLiveObjects: 2.037367 ms CreateObjectMapping: 0.529621 ms MarkObjects: 8.562103 ms  DeleteObjects: 0.054459 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 111.220282 ms
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 12588.
+Total: 20.435851 ms (FindLiveObjects: 0.400172 ms CreateObjectMapping: 0.336032 ms MarkObjects: 19.167757 ms  DeleteObjects: 0.531585 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 125 shaders 1193 combinations 0.010s
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 4.200020 ms
+Unloading 216 unused Assets to reduce memory usage. Loaded Objects now: 12786.
+Total: 22.883583 ms (FindLiveObjects: 0.425139 ms CreateObjectMapping: 0.343902 ms MarkObjects: 21.358702 ms  DeleteObjects: 0.755338 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1355 unused Assets to reduce memory usage. Loaded Objects now: 20710.
+Total: 18.592779 ms (FindLiveObjects: 0.750692 ms CreateObjectMapping: 0.385144 ms MarkObjects: 15.729026 ms  DeleteObjects: 1.727326 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.011s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 69123.
+Total: 13.408769 ms (FindLiveObjects: 2.589295 ms CreateObjectMapping: 1.028719 ms MarkObjects: 9.727731 ms  DeleteObjects: 0.062272 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 26.284860 ms
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 13057.
+Total: 26.337315 ms (FindLiveObjects: 0.433597 ms CreateObjectMapping: 0.358823 ms MarkObjects: 24.904943 ms  DeleteObjects: 0.639473 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 125 shaders 1193 combinations 0.010s
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 5.066331 ms
+Unloading 215 unused Assets to reduce memory usage. Loaded Objects now: 13245.
+Total: 27.795131 ms (FindLiveObjects: 0.431926 ms CreateObjectMapping: 0.375053 ms MarkObjects: 26.127137 ms  DeleteObjects: 0.860532 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1742 unused Assets to reduce memory usage. Loaded Objects now: 20782.
+Total: 19.137767 ms (FindLiveObjects: 0.773386 ms CreateObjectMapping: 0.386531 ms MarkObjects: 15.765547 ms  DeleteObjects: 2.211865 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.011s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 28307.
+Total: 12.738311 ms (FindLiveObjects: 1.071885 ms CreateObjectMapping: 0.454107 ms MarkObjects: 11.189987 ms  DeleteObjects: 0.021648 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 43.632659 ms
+Unloading 111 unused Assets to reduce memory usage. Loaded Objects now: 11900.
+Total: 14.518381 ms (FindLiveObjects: 0.400793 ms CreateObjectMapping: 0.400063 ms MarkObjects: 13.313598 ms  DeleteObjects: 0.403339 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 125 shaders 1193 combinations 0.011s
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 4.934396 ms
+Unloading 217 unused Assets to reduce memory usage. Loaded Objects now: 12091.
+Total: 16.896082 ms (FindLiveObjects: 0.420215 ms CreateObjectMapping: 0.343770 ms MarkObjects: 15.486256 ms  DeleteObjects: 0.645346 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 444 unused Assets to reduce memory usage. Loaded Objects now: 20926.
+Total: 18.384963 ms (FindLiveObjects: 0.779251 ms CreateObjectMapping: 0.370445 ms MarkObjects: 16.583764 ms  DeleteObjects: 0.650873 ms)
+
+Shader.WarmupAllShaders ();
+Shader warmup: 124 shaders 1189 combinations 0.010s
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 101338.
+Total: 16.133889 ms (FindLiveObjects: 4.069880 ms CreateObjectMapping: 1.002057 ms MarkObjects: 10.777043 ms  DeleteObjects: 0.283979 ms)
+
+Curl error 42: Callback aborted
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+Request aborted
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 216646.
+Total: 63.528367 ms (FindLiveObjects: 12.764904 ms CreateObjectMapping: 2.776806 ms MarkObjects: 47.475448 ms  DeleteObjects: 0.510650 ms)
+
+Changing real window size to 960 x 540
+Changing real window size to 961 x 540
+Changing real window size to 964 x 541
+Changing real window size to 1000 x 575
+Changing real window size to 1058 x 619
+Changing real window size to 1102 x 651
+Changing real window size to 1097 x 652
+Uploading Crash Report
+Uploading Crash Report
+<color=#ff7337><color=#0099bc><b>DOTWEEN ► </b></color> SAFE MODE ►</color> DOTween's safe mode captured 6 errors. This is usually ok (it's what safe mode is there for) but if your game is encountering issues you should set Log Behaviour to Default in DOTween Utility Panel in order to get detailed warnings when an error is captured (consider that these errors are always on the user side).
+- 5 missing target or field errors
+- 1 errors inside callbacks (these might be important)
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 14 frames, [2.0 KB-4.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 155 frames, [16.0 KB-32.0 KB]: 210 frames, [32.0 KB-64.0 KB]: 12356 frames, [64.0 KB-128.0 KB]: 131517 frames, [256.0 KB-0.5 MB]: 9185 frames, [0.5 MB-1.0 MB]: 3 frames, [1.0 MB-2.0 MB]: 11 frames, [2.0 MB-4.0 MB]: 24 frames, [4.0 MB-8.0 MB]: 14 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.9 MB
+      Peak Allocated Bytes 7.9 MB
+      Overflow Count 14
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 256 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 436.0 KB
+      Overflow Count 2376
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 76.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 75.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 79.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 79.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 79.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 6
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 16.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 4.7 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 476.0 KB
+      Peak Allocated Bytes 472.9 KB
+      Overflow Count 101
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 11
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 79.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 77.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 74.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 79.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 79.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 75.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_CloudJob.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 11.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 72049
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 14 Subsections = 14336 buckets. Failed count: 1529466
+        32B: 27 Subsections = 13824 buckets. Failed count: 266667
+        48B: 34 Subsections = 11605 buckets. Failed count: 6290011
+        64B: 88 Subsections = 22528 buckets. Failed count: 375380
+        80B: 45 Subsections = 9216 buckets. Failed count: 58235
+        96B: 12 Subsections = 2048 buckets. Failed count: 195293
+        112B: 16 Subsections = 2340 buckets. Failed count: 3614
+        128B: 20 Subsections = 2560 buckets. Failed count: 192480
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 16 frames, [64.0 MB-128.0 MB]: 148475 frames, [128.0 MB-256.0 MB]: 4999 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 13
+      Peak Allocated memory 186.6 MB
+      Peak Large allocation bytes 24.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 16 frames, [8.0 MB-16.0 MB]: 63720 frames, [16.0 MB-32.0 MB]: 89744 frames, [32.0 MB-64.0 MB]: 10 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 3
+      Peak Allocated memory 39.0 MB
+      Peak Large allocation bytes 30.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 12
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 24
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 14 Subsections = 14336 buckets. Failed count: 1529466
+        32B: 27 Subsections = 13824 buckets. Failed count: 266667
+        48B: 34 Subsections = 11605 buckets. Failed count: 6290011
+        64B: 88 Subsections = 22528 buckets. Failed count: 375380
+        80B: 45 Subsections = 9216 buckets. Failed count: 58235
+        96B: 12 Subsections = 2048 buckets. Failed count: 195293
+        112B: 16 Subsections = 2340 buckets. Failed count: 3614
+        128B: 20 Subsections = 2560 buckets. Failed count: 192480
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 16 frames, [2.0 MB-4.0 MB]: 531 frames, [4.0 MB-8.0 MB]: 125917 frames, [8.0 MB-16.0 MB]: 20212 frames, [16.0 MB-32.0 MB]: 6638 frames, [32.0 MB-64.0 MB]: 176 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 4
+      Peak Allocated memory 38.1 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 16 frames, [64.0 KB-128.0 KB]: 121768 frames, [128.0 KB-256.0 KB]: 9979 frames, [1.0 MB-2.0 MB]: 4140 frames, [2.0 MB-4.0 MB]: 17419 frames, [4.0 MB-8.0 MB]: 78 frames, [8.0 MB-16.0 MB]: 23 frames, [16.0 MB-32.0 MB]: 67 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 24.6 MB
+      Peak Large allocation bytes 21.3 MB
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 1833
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 14 Subsections = 14336 buckets. Failed count: 1529466
+        32B: 27 Subsections = 13824 buckets. Failed count: 266667
+        48B: 34 Subsections = 11605 buckets. Failed count: 6290011
+        64B: 88 Subsections = 22528 buckets. Failed count: 375380
+        80B: 45 Subsections = 9216 buckets. Failed count: 58235
+        96B: 12 Subsections = 2048 buckets. Failed count: 195293
+        112B: 16 Subsections = 2340 buckets. Failed count: 3614
+        128B: 20 Subsections = 2560 buckets. Failed count: 192480
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 153490 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 6
+      Peak Allocated memory 29.1 MB
+      Peak Large allocation bytes 16.2 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 153490 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 7
+      Peak Allocated memory 62.0 MB
+      Peak Large allocation bytes 36.0 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 14 Subsections = 14336 buckets. Failed count: 1529466
+        32B: 27 Subsections = 13824 buckets. Failed count: 266667
+        48B: 34 Subsections = 11605 buckets. Failed count: 6290011
+        64B: 88 Subsections = 22528 buckets. Failed count: 375380
+        80B: 45 Subsections = 9216 buckets. Failed count: 58235
+        96B: 12 Subsections = 2048 buckets. Failed count: 195293
+        112B: 16 Subsections = 2340 buckets. Failed count: 3614
+        128B: 20 Subsections = 2560 buckets. Failed count: 192480
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 153490 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 362.6 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [1.0 KB-2.0 KB]: 16 frames, [4.0 KB-8.0 KB]: 11987 frames, [8.0 KB-16.0 KB]: 141487 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 10.3 KB
+      Peak Large allocation bytes 0 B

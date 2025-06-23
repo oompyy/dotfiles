@@ -1,0 +1,6 @@
+2025/06/15-18:28:14.315 410 Creating DB /home/nils/.config/vesktop/sessionData/WebStorage/3/IndexedDB/indexeddb.leveldb since it was missing.
+2025/06/15-18:28:14.318 410 Reusing MANIFEST /home/nils/.config/vesktop/sessionData/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/06/15-18:39:18.494 411 Level-0 table #5: started
+2025/06/15-18:39:18.496 411 Level-0 table #5: 4682 bytes OK
+2025/06/15-18:39:18.498 411 Delete type=0 #3
+2025/06/15-18:39:18.498 411 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

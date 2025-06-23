@@ -1,0 +1,24 @@
+2025/06/23-22:13:37.200 4e0 Reusing MANIFEST /home/nils/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/06/23-22:13:37.209 4e0 Recovering log #1025
+2025/06/23-22:13:37.209 4e0 Reusing old log /home/nils/.config/vesktop/sessionData/Local Storage/leveldb/001025.log 
+2025/06/23-22:14:37.212 4e1 Level-0 table #1030: started
+2025/06/23-22:14:37.215 4e1 Level-0 table #1030: 119139 bytes OK
+2025/06/23-22:14:37.217 4e1 Delete type=0 #1025
+2025/06/23-22:16:47.254 4e1 Level-0 table #1032: started
+2025/06/23-22:16:47.257 4e1 Level-0 table #1032: 77695 bytes OK
+2025/06/23-22:16:47.259 4e1 Delete type=0 #1029
+2025/06/23-22:18:37.354 4e1 Level-0 table #1034: started
+2025/06/23-22:18:37.357 4e1 Level-0 table #1034: 70649 bytes OK
+2025/06/23-22:18:37.359 4e1 Delete type=0 #1031
+2025/06/23-22:38:37.354 4e0 Level-0 table #1036: started
+2025/06/23-22:38:37.357 4e0 Level-0 table #1036: 20334 bytes OK
+2025/06/23-22:38:37.359 4e0 Delete type=0 #1033
+2025/06/23-22:38:37.359 4e0 Compacting 4@0 + 1@1 files
+2025/06/23-22:38:37.368 4e0 Generated table #1037@0: 148 keys, 147238 bytes
+2025/06/23-22:38:37.368 4e0 Compacted 4@0 + 1@1 files => 147238 bytes
+2025/06/23-22:38:37.369 4e0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/23-22:38:37.370 4e0 Delete type=2 #1027
+2025/06/23-22:38:37.370 4e0 Delete type=2 #1030
+2025/06/23-22:38:37.370 4e0 Delete type=2 #1032
+2025/06/23-22:38:37.370 4e0 Delete type=2 #1034
+2025/06/23-22:38:37.370 4e0 Delete type=2 #1036

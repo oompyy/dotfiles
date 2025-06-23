@@ -1,0 +1,6 @@
+[Added Associations]
+application/x-msdownload=wine-2.desktop;
+
+[Default Applications]
+application/x-msdownload=wine-2.desktop;
+x-scheme-handler/discord=vesktop.desktop
